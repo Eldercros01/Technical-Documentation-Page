@@ -34,7 +34,7 @@ technical-documentation/
 
 ## 📸 Vista Previa
 
-Puedes ver una demo del proyecto [aquí](https://your-username.github.io/technical-documentation) 
+Puedes ver una demo del proyecto [aquí]( https://eldercros01.github.io/Technical-Documentation-Page/) 
 
 ## 📝 Créditos
 
